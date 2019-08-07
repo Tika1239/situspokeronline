@@ -32,6 +32,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
     "uniqCompNum": 8,
     "versionPublish": "4.10.7"
   },
@@ -39,8 +41,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Trik Mengalahkan Lawan Dalam Permainan Situs Poker Online",
+        "meta_descr": "Apalagi untuk sekarang ini sudah sangat mudah sekali untuk bermain judi di situs poker online ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
